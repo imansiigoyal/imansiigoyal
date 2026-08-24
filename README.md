@@ -1,6 +1,6 @@
 # Hi, I'm Mansi Goyal 👋
 
-### CS Undergrad @ Manipal University Jaipur | Web Developer | Problem Solver
+### CS Undergraduate @ Manipal University Jaipur | Web Developer | Problem Solver
 
 I am a first-year Computer Science student at Manipal University Jaipur. My current focus is on building strong fundamentals in Data Structures & Algorithms, exploring Web Development, and contributing to open-source projects.
 
