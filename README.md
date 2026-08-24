@@ -26,21 +26,8 @@ I am a first-year Computer Science student at Manipal University Jaipur. My curr
 
 ### Featured Projects
 
-#### Personal Portfolio Website
-A personal developer portfolio built to showcase my projects, coding profiles, and skills.
 
-- Built with HTML5, Tailwind CSS, and JavaScript
-- Responsive design optimized for desktop and mobile devices
-- Integrated GitHub & LeetCode profile redirection links
 
 [Repository](https://github.com/mansigoyal/portfolio) | [Live Demo](https://mansigoyal.github.io)
-
----
-
-#### Student Management System (CLI)
-A C++ based command-line application to handle student record management efficiently.
-
-- Built with C++ utilizing File Handling and Object-Oriented Programming (OOP)
-- Features include adding, searching, updating, and deleting student records
 
 [Repository](https://github.com/mansigoyal/student-management-system)
