@@ -39,7 +39,7 @@
 ### 🏆 Certifications & Workshops
 
 Since I am just starting my B.Tech journey, my current focus is on hands-on learning and exploration:
-- 🚁 **Drone Technology Workshop:** Participated in a hands-on workshop focused on drone mechanics, assembly, and operations. *(View Certificate - [https://github.com/user-attachments/assets/a643d37a-df7f-454e-a759-39948d604292](#))*
+- 🚁 **Drone Technology Workshop:** Participated in a hands-on workshop focused on drone mechanics, assembly, and operations.
 - 🇺🇳 **MUJMUN 13.0 (Model United Nations):** Represented **Indonesia** in the **UNHRC** (United Nations Human Rights Council) committee, actively engaging in international diplomacy, policy drafting, and public speaking.
 - <img width="1437" height="980" alt="WhatsApp Image 2026-08-24 at 22 29 18" src="https://github.com/user-attachments/assets/a643d37a-df7f-454e-a759-39948d604292" />
 
